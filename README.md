@@ -1,0 +1,1 @@
+# hackintosh-t470p-OC
